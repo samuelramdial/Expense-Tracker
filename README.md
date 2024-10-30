@@ -1,3 +1,13 @@
+# Expense Tracker 
+
+## Overview 
+The Expense Tracker is a web application that helps users manage their finances by keeping track of income and expenses. Built with a user-friendly interface, it enables easy input and manipulation of expenses to promote better financial management. 
+
+## Features
+* Show balance, expense, and income totals
+* Add transactions to reflect in total
+* Display history of transaction items
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
